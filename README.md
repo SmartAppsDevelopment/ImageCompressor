@@ -6,6 +6,7 @@ Select Img|Before Compress|After Compress
 :--:|:--:|:--:|
 <img src="images/1.jpg" width="250px" />|<img src="images/2.jpg" width="250px" />|<img src="images/3.jpg" width="250px" />
 
+![Whole App Preview](gif.gif)
 Help Full Links
 
 * [Compress Logic](https://stackoverflow.com/questions/8417034/how-to-make-bitmap-compress-without-change-the-bitmap-size)
