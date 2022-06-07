@@ -6,7 +6,7 @@ Select Img|Before Compress|After Compress
 :--:|:--:|:--:|
 <img src="images/1.jpg" width="250px" />|<img src="images/2.jpg" width="250px" />|<img src="images/3.jpg" width="250px" />
 :--:|
-![Whole App Preview](gif.gif)|
+!<img src="images/gif.gif" width="250px" />|
 
 
 Help Full Links
