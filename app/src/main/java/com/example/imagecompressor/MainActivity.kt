@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
     fun compressImg(){
         val destbaseFile = File(cacheDir, "DestImg")
         destbaseFile.mkdir()
-        val destFile = File(destbaseFile, "sldkfjsdlfkdsjf.JPG")
+        val destFile = File(destbaseFile, "afterCompressImg.JPG")
         destFile.createNewFile()
         stringlogger.appendLog("--------------TC${tcCounter++}")
         stringlogger.appendLog("CompressQuality " + FileUtilsm.compressQuality)
