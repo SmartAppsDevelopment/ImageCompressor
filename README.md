@@ -5,8 +5,9 @@ This is a sample app  that uses kotlin BitmapCompress Operation to compress an i
 Select Img|Before Compress|After Compress
 :--:|:--:|:--:|
 <img src="images/1.jpg" width="250px" />|<img src="images/2.jpg" width="250px" />|<img src="images/3.jpg" width="250px" />
-:--:
-Whole App Preview Gif<img src="images/gif.gif"  />
+
+Whole App Preview Gif
+<img src="images/gif.gif"  />
 
 
 Help Full Links
