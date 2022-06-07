@@ -7,7 +7,7 @@ Select Img|Before Compress|After Compress
 <img src="images/1.jpg" width="250px" />|<img src="images/2.jpg" width="250px" />|<img src="images/3.jpg" width="250px" />
 
 Whole App Preview Gif
-<img src="images/gif.gif"  width="350px"/>
+<img src="images/gif.gif"  width="350px"  height="550px"/>
 
 
 Help Full Links
