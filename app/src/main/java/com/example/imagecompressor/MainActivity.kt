@@ -55,7 +55,7 @@ class MainActivity : AppCompatActivity() {
             updateImage(destinationFile)
             appendLog("Compress Time:= $timeToExecute Ms")
             appendLog("After Compress Size = ${CompressFileUtils.getFolderSizeLabel(destinationFile)}")
-            showToast("File Compressed" /*+ currentFileUri.toString()*/)
+            showToast("File Compressed")
         } catch (e: Exception) {
             showToast("Select Image First ")
         }
