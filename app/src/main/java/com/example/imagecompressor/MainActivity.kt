@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
          val destinationFile = getDestinationFileForImage()
         try {
             appendLog("--------------TC${tcCounter++}")
-            appendLog("CompressQuality " + CompressFileUtils.COMPRESS_QUALITY)
+            appendLog("CompressQuality ${CompressFileUtils.COMPRESS_QUALITY}" )
             appendLog("Before Compress Size = ${CompressFileUtils.getFolderSizeLabel(sourceImageFile!!)}")
 
             val timeToExecute = CompressImage.compressImage(sourceImageFile!!, destinationFile)
