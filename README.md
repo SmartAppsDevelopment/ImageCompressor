@@ -15,4 +15,4 @@ Help Full Links
 
 * [Compress Logic](https://stackoverflow.com/questions/8417034/how-to-make-bitmap-compress-without-change-the-bitmap-size)
 * [Capture Image From Camera](https://developer.android.com/training/camerax/take-photo)
-* [Zoom Pain Image View Libarary ](https://github.com/Baseflow/PhotoView)
+* [Zoom Pain Image View Libararyz](https://github.com/Baseflow/PhotoView)
